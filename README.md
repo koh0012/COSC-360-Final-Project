@@ -31,3 +31,14 @@
   <li>Block/Unblock user accounts</li>
   <li>Edit/Remove posts</li>
 </ul>
+
+### Site Layout
+<p>Image here</p>
+
+### Organization of pages (Site map)
+<p>Image here</p>
+
+### Examples of each page type
+<p>Image here</p>
+<p>Image here</p>
+<p>Image here</p>
