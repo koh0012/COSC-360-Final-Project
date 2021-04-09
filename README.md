@@ -1,5 +1,7 @@
 # COSC-360-Final-Project
 
+### Github repo: https://github.com/koh0012/COSC-360-Final-Project
+
 ## MyBlogPost Website
 
 ### Team Member Selections
