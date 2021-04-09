@@ -15,9 +15,9 @@
 
 #### For members and visitors:
 <ul>
-  <li>Support browsing for visitors with limited privileges (Unregistered users)</li>
+  <li>Support browsing for visitors</li>
+  <li>Search for posts without registering</li>
   <li>Sign-up for the website with username, password, e-mail, and image</li>
-  <li>Sign-up for the website newsletter</li>
   <li>Login with username and password </li>
   <li>Create posts and make comments</li>
   <li>Allow users to edit their own profile (username, password, e-mail and image)</li>
