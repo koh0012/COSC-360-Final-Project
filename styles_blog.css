@@ -1,0 +1,46 @@
+body{
+    background-color: #f3f3f3;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, footer{
+        
+    background-color: lightskyblue;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    text-align: center;
+    border: 0.2em darkblue solid;
+}
+
+footer{
+    padding-bottom: 1em;
+}
+
+header nav{
+    background-color: lightblue;
+    padding: 0.07em;
+}
+
+nav ul{
+    padding: 0.4em;
+}
+
+nav ul li{
+    display: inline;
+    padding-right: 0.5em;
+}
+
+a:link{
+    color: green;
+    font-weight: bold;
+}
+
+a:visited{
+    color: darkmagenta;
+}
+
+a:hover{
+    background-color: blue;
+}
