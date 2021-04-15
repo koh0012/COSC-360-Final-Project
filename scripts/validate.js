@@ -1,4 +1,3 @@
-  //check passwords
 
 function isBlank(inputField)
 {
@@ -18,35 +17,27 @@ function makeClean(inputDiv){
 	inputDiv.style.borderColor="#FFFFFF";
 }
 
-window.onload = function()
-{
+window.onload = function() {
     var mainForm = document.getElementById("form");
-    var requiredInputs = document.querySelectorAll(".required");
 
-    mainForm.onsubmit = function(e)
-    {
+    mainForm.onsubmit = function(e) {
 	     var requiredInputs = document.querySelectorAll(".required");
        var err = false;
 
 	     for (var i=0; i < requiredInputs.length; i++)
        {
-	        if( isBlank(requiredInputs[i]))
-          {
+	        if( isBlank(requiredInputs[i])) {
 		          err |= true;
 		          makeRed(requiredInputs[i]);
 	        }
-	        else
-          {
+	        else {
 		          makeClean(requiredInputs[i]);
 	        }
 	    }
-      if (err == true)
-      {
+      if (err == true) {
         e.preventDefault();
       }
-      else
-      {
-        console.log('checking match');
+      else {
         checkPasswordMatch(e);
       }
     }
