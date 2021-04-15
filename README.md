@@ -33,12 +33,17 @@
 </ul>
 
 ### Site Layout
-<p>Image here</p>
+![index html Layout@2x](https://user-images.githubusercontent.com/77301335/114863884-f0d40400-9db5-11eb-8ddd-b6fb11aeb4b1.png)
+![blog html Layout@2x](https://user-images.githubusercontent.com/77301335/114863901-f5002180-9db5-11eb-914c-61451980a342.png)
+![login html Layout@2x](https://user-images.githubusercontent.com/77301335/114863909-f7fb1200-9db5-11eb-8f93-23c1721674b7.png)
+
 
 ### Organization of pages (Site map)
-<p>Image here</p>
+![Site Map@2x](https://user-images.githubusercontent.com/77301335/114863930-fd585c80-9db5-11eb-86ae-2a8d6fa76e06.png)
+
 
 ### Examples of each page type
-<p>Image here</p>
-<p>Image here</p>
-<p>Image here</p>
+<img width="1170" alt="Screen Shot 2021-04-15 at 6 41 19 AM" src="https://user-images.githubusercontent.com/77301335/114863961-09441e80-9db6-11eb-814d-3e9b8e6296ec.png">
+<img width="1165" alt="Screen Shot 2021-04-15 at 6 42 09 AM" src="https://user-images.githubusercontent.com/77301335/114863968-0ba67880-9db6-11eb-9e23-b37444c10598.png">
+<img width="1165" alt="Screen Shot 2021-04-15 at 6 42 26 AM" src="https://user-images.githubusercontent.com/77301335/114863973-0cd7a580-9db6-11eb-9234-ed6924256776.png">
+
