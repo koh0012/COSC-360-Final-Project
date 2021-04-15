@@ -95,3 +95,7 @@ article div{
 article div h6{
     text-align: right;
 }
+
+form{
+    text-align: center;
+}
