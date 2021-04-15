@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles.css">
     <script type="text/javascript" src="scripts/validate.js"></script>
-    <title>Create an account</title>
+    <title>Close an account</title>
 </head>
 <body>
     <header id="masthead">
@@ -15,7 +15,7 @@
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="createAccount.html">Create an account</a></li>
+                <li><a href="createAccount.html">Change your mind? Create an account here</a></li>
 
 <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {

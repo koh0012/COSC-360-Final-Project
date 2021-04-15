@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles.css">
     <script type="text/javascript" src="scripts/validate.js"></script>
-    <title>Create an account</title>
+    <title>Edit profile</title>
 </head>
 <body>
     <header id="masthead">
