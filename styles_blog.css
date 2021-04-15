@@ -44,3 +44,19 @@ a:visited{
 a:hover{
     background-color: blue;
 }
+
+#post{
+    text-align: center;
+}
+
+img{
+    border: 0.15em solid black;
+    padding: 0.5em;
+}
+
+.comment{
+    border: 0.1em solid grey;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    color: darkblue;
+}

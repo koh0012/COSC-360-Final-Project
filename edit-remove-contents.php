@@ -21,8 +21,8 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "<li><a href=\"logout.html\">Logout</a></li></ul></nav></header>";
         echo "<h3>The post ".$_POST["keyword"]." Enabled/Disabled</h3><br><br>";
-        echo "<a href=\"newpost.html\">Make new post now!</a><br><br>";
-        echo "<a href=\"index.html\">Go To Main Page</a><br><br>";
+
+        echo "<a href=\"admin_page.html\">Go To Previous Page</a><br><br>";
     }
 
     else if ($_SERVER["REQUEST_METHOD"] == "GET"){
